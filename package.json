@@ -1,7 +1,7 @@
 {
   "name": "ngi",
   "version": "0.0.1",
-  "description": "nodejs port of gitignore.io cli tools",
+  "description": "node.js port of gitignore.io cli tools",
   "main": "",
   "bin": {
 	  "ngi": "./cli.js"
