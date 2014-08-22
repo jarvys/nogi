@@ -1,5 +1,5 @@
 {
-  "name": "node-gi",
+  "name": "ngi",
   "version": "0.0.1",
   "description": "nodejs port of gitignore.io cli tools",
   "main": "",
