@@ -4,7 +4,7 @@
   "description": "node.js port of gitignore.io cli tools",
   "main": "",
   "bin": {
-	  "ngi": "./cli.js"
+	  "nogi": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

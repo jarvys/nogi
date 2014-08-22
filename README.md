@@ -16,5 +16,5 @@ Usage
 -----
 
 ```Bash
-$ ngi node,python
+$ nogi node,python
 ```
