@@ -1,0 +1,17 @@
+{
+  "name": "node-gi",
+  "version": "0.0.1",
+  "description": "nodejs port of gitignore.io cli tools",
+  "main": "",
+  "bin": {
+	  "ngi": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^1.2.0"
+  }
+}
