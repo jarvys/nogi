@@ -1,4 +1,4 @@
-node-gi
+nogi
 =======
 
 > node.js port of [gitignore.io](http://www.gitignore.io/) cli tools
@@ -8,7 +8,7 @@ Install
 -------
 
 ```Bash
-$ npm install -g ngi
+$ npm install -g nogi
 ```
 
 
