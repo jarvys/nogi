@@ -1,6 +1,6 @@
 {
   "name": "nogi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "node.js port of gitignore.io cli tools",
   "main": "",
   "bin": {
